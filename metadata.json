@@ -1,0 +1,5 @@
+{
+  "name": "SSS TV",
+  "description": "A sleek and modern web application for streaming live TV channels, featuring a floating video player and a dynamic channel grid. Built with React, TypeScript, and Tailwind CSS for a premium viewing experience.",
+  "requestFramePermissions": []
+}
